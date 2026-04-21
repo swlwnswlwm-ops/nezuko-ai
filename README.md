@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>https://whatsapp.com/channel/0029Vb7AkG84inotOc8BXE1K</a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>https://github.com/mzml-gg</a>
+  <a href="https://whatsapp.com/channel/0029VbCfnh30AgW5Ygh1ZZ37"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/3rab_top_devs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@3rab_top_devs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://github.com/mzml-gg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -58,3 +58,58 @@
 - مكتبات npm:
   ```bash
   npm install @whiskeysockets/baileys qrcode-terminal pino yt-search canvas axios cheerio
+```
+
+---
+
+𝒅𝒆𝒗𝒔 👑
+
+<div align="center">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/mzml-gg/nezuko-Photos/blob/main/ziad.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="𝒛𝒊𝒂𝒅 𝒅𝒆𝒗𝒔"/><br/>
+        <b>𝒛𝒊𝒂𝒅 𝒅𝒆𝒗𝒔</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/mzml-gg/Api-creds.json-/main/IMG-20260320-WA0382.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="𝒎𝒐𝒏𝒕𝒆 𝒅𝒆𝒗𝒔"/><br/>
+        <b>𝒎𝒐𝒏𝒕𝒆 𝒅𝒆𝒗𝒔</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+🌟 روابط التواصل
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbCfnh30AgW5Ygh1ZZ37">
+    <img src="https://img.shields.io/badge/قناة_الواتساب-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="220"/>
+  </a>
+  <br/>
+  <a href="https://www.instagram.com/3rab_top_devs">
+    <img src="https://img.shields.io/badge/Instagram-3rab_top_devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="220"/>
+  </a>
+  <br/>
+  <a href="https://www.youtube.com/@3rab_top_devs">
+    <img src="https://img.shields.io/badge/YouTube-3rab_top_devs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="220"/>
+  </a>
+  <br/>
+  <a href="https://github.com/mzml-gg">
+    <img src="https://img.shields.io/badge/GitHub-mzml_gg-181717?style=for-the-badge&logo=github&logoColor=white" width="220"/>
+  </a>
+</p>
+
+---
+
+📄 الترخيص
+
+هذا المشروع مرخص تحت MIT License – يمكنك استخدامه وتعديله مع ذكر المصدر.
+
+---
+
+<p align="center">
+  <strong>نيزوكو AI – البوت الأسطوري لواتساب</strong><br/>
+  <img src="https://raw.githubusercontent.com/mzml-gg/nezuko-Photos/main/nezuko5.jpg" width="50"/>
+</p>
