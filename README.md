@@ -56,11 +56,10 @@
 - FFmpeg (لتحويل الصوت والفيديو)
 - Git
 - مكتبات npm:
-  ```bash
-  npm install @whiskeysockets/baileys qrcode-terminal pino yt-search canvas axios cheerio
-```
 
----
+  npm install @whiskeysockets/baileys qrcode-terminal pino yt-search canvas axios cheerio
+
+ةة
 
 𝒅𝒆𝒗𝒔 👑
 
