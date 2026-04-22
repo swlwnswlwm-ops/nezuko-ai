@@ -109,6 +109,6 @@
 ---
 
 <p align="center">
-  <strong>نيزوكو AI – البوت الأسطوري لواتساب</strong><br/>
+  <strong>.𓏲⋆˙𝑵𝜩𝒁𝑼𝑲𝜣 𝑩𝜣𝑻🎀 FREE BOT WHATSAPP Arabic</strong><br/>
   <img src="https://raw.githubusercontent.com/mzml-gg/nezuko-Photos/main/nezuko5.jpg" width="50"/>
 </p>
