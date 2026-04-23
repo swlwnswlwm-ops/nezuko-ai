@@ -51,15 +51,14 @@
 ---
 
 ## 📦 متطلبات التشغيل تـريـمكـس 
-
-- Node.js ≥ 18
+اوامـر الـمالك الـمفيده (عرض-كود) (ضيف) (امسح) (كشف)؛ (افحص) 
+- Node.js ≥ 20 ^ 21 ^°°°°
 - FFmpeg (لتحويل الصوت والفيديو)
 - Git
-- مكتبات npm:
-
+- مكتبات npm
   npm install @whiskeysockets/baileys qrcode-terminal pino yt-search canvas axios cheerio
 
-ةة
+
 
 𝒅𝒆𝒗𝒔 👑
 
