@@ -6,8 +6,8 @@ import fs from "fs"
 global.botNumber = "" //فيك تخلي هذا المحل على فراغ 
 
 // عدل في محل owenar لي كي تحط نفسك مالك للبوت 
-global.owner = ["249922420554", "212662023605", "201559086340"]
-global.suittag = ["249922420554"] 
+global.owner = ["967784343369", "966535676902"]
+global.suittag = ["967784343369"] 
 global.prems = []
 
 
